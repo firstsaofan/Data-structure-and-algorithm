@@ -10,7 +10,7 @@ namespace binary_search
     {
  /*       // See https://aka.ms/new-console-template for more information
 
-        //二分查找 查找次数O(logn) 
+        //二分查找 查找次数O(logn)  
         //猜数字游戏  
         Console.WriteLine("输入一个数字，代表1----N的范围");
 var n = Console.ReadLine();
