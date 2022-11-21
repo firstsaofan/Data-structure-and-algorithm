@@ -17,7 +17,7 @@ while (start <= end)
 {
     //元素中间索引
 
-    var mid = (start + end) / 2;
+    var mid = (start + end) / 2;//这个是自动向下取整的
     
     Console.WriteLine(@$"自动猜测的数字是{mid}");
     count++;
